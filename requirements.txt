@@ -1,0 +1,12 @@
+Flask
+numpy
+pandas
+opencv-python
+scikit-learn
+tensorflow
+torch
+torchvision
+Pillow
+geopy
+requests
+python-dotenv
