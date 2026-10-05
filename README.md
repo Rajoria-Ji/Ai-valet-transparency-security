@@ -12,7 +12,7 @@ Tech stack.
 Getting started.
 Configuration
 API reference.
-Data model
+Data model.
 Testing
 Security and privacy
 Performance targets
