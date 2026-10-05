@@ -1,4 +1,4 @@
-AI Valet Transparency & Security
+# AI Valet Transparency & Security
 
 A valet management and vehicle security platform. It gives car owners a live view of where their vehicle is, ties every handoff to a specific valet, and uses the lot's CCTV cameras to flag a car that moves when it shouldn't.In normal valet parking, you give your keys to someone, get a paper slip, and then you know nothing. You can't tell if your car is parked, if someone is driving it around, or how long it will take to come back. The parking manager also has no proof of who handled which car, so if there's a scratch or a complaint, it becomes one person's word against another's.
 
