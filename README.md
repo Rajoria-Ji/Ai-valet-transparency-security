@@ -5,7 +5,7 @@ A valet management and vehicle security platform. It gives car owners a live vie
 
 ## Contents:
 
-The problem
+The problem.
 What it does
 How it works
 Tech stack
