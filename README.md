@@ -13,7 +13,7 @@ Getting started.
 Configuration
 API reference.
 Data model.
-Testing
+Testing.
 Security and privacy
 Performance targets
 Operations
