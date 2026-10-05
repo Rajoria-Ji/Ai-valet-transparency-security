@@ -3,3 +3,8 @@ yea
 load
 new
 teh
+ki
+gh
+lk
+hj
+ui
