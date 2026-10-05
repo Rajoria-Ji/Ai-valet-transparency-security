@@ -64,15 +64,15 @@ The client is a responsive web app with three views (customer, valet, supervisor
 
 
 ## Tech stack:
-Layer	Technology
-Backend	Python, FastAPI
-Database	SQLite (dev), PostgreSQL (target), Alembic or raw SQL migrations
-Computer vision	OpenCV, Ultralytics YOLO
-Frontend	HTML5, CSS, JavaScript / React
-Auth	JWT, role-based access control
-Realtime	WebSocket or polling
-Testing	PyTest, Requests, Postman
-Tooling	Git, GitHub, linting and unit tests before merge
+Layer	Technology.
+Backend	Python, FastAPI.
+Database	SQLite (dev), PostgreSQL (target), Alembic or raw SQL migrations.
+Computer vision	OpenCV, Ultralytics YOLO.
+Frontend	HTML5, CSS, JavaScript / React.
+Auth	JWT, role-based access control.
+Realtime	WebSocket or polling.
+Testing	PyTest, Requests, Postman.
+Tooling	Git, GitHub, linting and unit tests before merge.
 
 ## Getting started
 Prerequisites
@@ -226,18 +226,18 @@ v1.0 prototype, in active development on an 8-week plan.
 
 Week	Focus	Status
 1	Requirements and scope	Done.
-2	Architecture and database	Planned
-3	Worker and ticket module	Planned
-4	Vision engine and geofence v1	Planned
-5	Customer UI and retrieval	Planned
-6	Admin monitoring UI	Planned
-7	Hardening and masking	Planned
-8	Release and defense	Planned
-Team
-Name	Role
-Sumit Rajoria	Team lead, AI architect, vision pipeline
-Dhairya Goyal	Backend and full-stack lead
-Satyarth Dahiya	Security, QA and documentation
+2	Architecture and database	Planned.
+3	Worker and ticket module	Planned.
+4	Vision engine and geofence v1	Planned.
+5	Customer UI and retrieval	Planned.
+6	Admin monitoring UI	Planned.
+7	Hardening and masking	Planned.
+8	Release and defense	Planned.
+Team.
+Name	Role.
+Sumit Rajoria	Team lead, AI architect, vision pipeline.
+Dhairya Goyal	Backend and full-stack lead.
+Satyarth Dahiya	Security, QA and documentation.
 
 ## Mentor:
 Shivanshu Upadhyay Department of Computer Science Engineering & Applications (AI & ML), GLA University, Mathura.
