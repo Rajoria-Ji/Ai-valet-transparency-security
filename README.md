@@ -225,7 +225,7 @@ Out of scope for v1: autonomous driving or CAN-bus access, OBD-II sensor hardwar
 v1.0 prototype, in active development on an 8-week plan.
 
 Week	Focus	Status
-1	Requirements and scope	Done
+1	Requirements and scope	Done.
 2	Architecture and database	Planned
 3	Worker and ticket module	Planned
 4	Vision engine and geofence v1	Planned
