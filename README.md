@@ -19,7 +19,7 @@ Performance targets
 Operations
 Known limitations
 Project status
-Team
+Team.
 References
 
 ## The problem:
