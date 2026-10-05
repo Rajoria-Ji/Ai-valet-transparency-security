@@ -15,7 +15,7 @@ API reference.
 Data model.
 Testing.
 Security and privacy.
-Performance targets
+Performance targets.
 Operations
 Known limitations
 Project status
