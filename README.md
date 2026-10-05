@@ -16,11 +16,11 @@ Data model.
 Testing.
 Security and privacy.
 Performance targets.
-Operations
-Known limitations
-Project status
+Operations.
+Known limitations.
+Project status.
 Team.
-References
+References.
 
 ## The problem:
 
