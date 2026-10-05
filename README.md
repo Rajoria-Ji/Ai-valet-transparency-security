@@ -9,7 +9,7 @@ The problem.
 What it does.
 How it works.
 Tech stack.
-Getting started
+Getting started.
 Configuration
 API reference
 Data model
