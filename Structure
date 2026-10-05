@@ -1,0 +1,22 @@
+AI-Valet-Platform/
+│
+├── README.md
+├── AUDIT.md
+├── LICENSE
+├── requirements.txt
+├── .env.example
+├── .gitignore
+├── app.py
+├── vehicle_tracking.py
+├── geofencing.py
+├── damage_detection.py
+├── joyride_detection.py
+├── retrieval_prediction.py
+├── vehicle_simulator.py
+│
+├── ai/
+├── backend/
+├── frontend/
+├── iot/
+├── tests/
+└── docs/
