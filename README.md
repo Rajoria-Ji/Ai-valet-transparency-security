@@ -11,7 +11,7 @@ How it works.
 Tech stack.
 Getting started.
 Configuration
-API reference
+API reference.
 Data model
 Testing
 Security and privacy
