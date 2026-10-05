@@ -14,7 +14,7 @@ Configuration
 API reference.
 Data model.
 Testing.
-Security and privacy
+Security and privacy.
 Performance targets
 Operations
 Known limitations
