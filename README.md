@@ -8,7 +8,7 @@ A valet management and vehicle security platform. It gives car owners a live vie
 The problem.
 What it does.
 How it works.
-Tech stack
+Tech stack.
 Getting started
 Configuration
 API reference
